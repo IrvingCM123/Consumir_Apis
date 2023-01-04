@@ -2,7 +2,7 @@
   "posts": [
     { "control_id_folio": "1", "control_placas_del_auto": "A7H1-9JQT1", "control_fecha_de_salida_del_auto": "3/1/2023", "control_fecha_de_entrada_del_auto": "20/02/2023","control_cliente_nombre": "Diana Laura Bautista Garcia",
     "control_cliente_telefono": "2721495728", "control_cliente_email": "Diana_Abeja@Gmail.com", "id": "63b4cd06380a2d579b064b96", "v": 0 }, 
-    { "control_id_folio": "1", "control_placas_del_auto": "A7H1-9JQT1", "control_fecha_de_salida_del_auto": "3/1/2023", "control_fecha_de_entrada_del_auto": "20/02/2023","control_cliente_nombre": "Diana Laura Bautista Garcia",
-    "control_cliente_telefono": "2721495728", "control_cliente_email": "Diana_Abeja@Gmail.com", "id": "63b4cd06380a2d579b064b96", "v": 0 }
+    { "control_id_folio": "2", "control_placas_del_auto": "A7H1-9JQT1", "control_fecha_de_salida_del_auto": "3/1/2023", "control_fecha_de_entrada_del_auto": "20/02/2023","control_cliente_nombre": "Diana Laura Bautista Garcia",
+    "control_cliente_telefono": "2721495728", "control_cliente_email": "Diana_Abeja@Gmail.com", "id": "63b4cd06380a2d123rb064b96", "v": 0 }
   ]
 }
