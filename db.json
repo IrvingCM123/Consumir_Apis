@@ -5,8 +5,7 @@
   "Materias": [
      {"id":1, "nrc_materia": 98429, "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602", "alumnos_materia": "24"},
     { "id":2, "nrc_materia": 98443, "nombre_materia": "Desarrollo de Software", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602", "alumnos_materia": "30"},
-    {"id":3, "nrc_materia": 91235, "nombre_materia": "Principios de Construcción de Software", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "401", "alumnos_materia": "34"},
-    { "id":4, "nrc_materia": 62435, "nombre_materia": "Interfaces de Usuario", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "802", "alumnos_materia": "19"}
+    {"id":3, "nrc_materia": 91235, "nombre_materia": "Principios de Construcción de Software", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "401", "alumnos_materia": "34"}
   ]
 }
 
