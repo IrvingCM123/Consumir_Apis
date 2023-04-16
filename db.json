@@ -1,11 +1,10 @@
 {
-  "posts": [
-    { "control_id_folio": "1", "control_placas_del_auto": "A7H1-9JQT1", "control_fecha_de_salida_del_auto": "3/1/2023", "control_fecha_de_entrada_del_auto": "20/02/2023","control_cliente_nombre": "Diana Laura Bautista Garcia",
-    "control_cliente_telefono": "2721495728", "control_cliente_email": "Diana_Abeja@Gmail.com", "id": "63b4cd06380a2d579b064b96", "v": 0, "img": "https://github.com/IrvingCM123/Consumir_Apis/blob/main/Imagen%20de%20WhatsApp%202023-01-04%20a%20las%2022.19.32.jpg?raw=true" }, 
-    { "control_id_folio": "2", "control_placas_del_auto": "A7H1-9JQT1", "control_fecha_de_salida_del_auto": "3/1/2023", "control_fecha_de_entrada_del_auto": "20/02/2023","control_cliente_nombre": "Diana Laura Bautista Garcia",
-    "control_cliente_telefono": "2721495728", "control_cliente_email": "Diana_Abeja@Gmail.com", "id": "63b4cd06380a2d123rb064b96", "v": 0, "img": "https://github.com/IrvingCM123/Consumir_Apis/blob/main/Imagen%20de%20WhatsApp%202023-01-04%20a%20las%2022.19.32.jpg?raw=true" },
-    { "control_id_folio": "3", "control_placas_del_auto": "DAWD2-JAS31", "control_fecha_de_salida_del_auto": "3/1/2023", "control_fecha_de_entrada_del_auto": "20/02/2023","control_cliente_nombre": "Diana Laura Bautista Garcia",
-    "control_cliente_telefono": "2721495728", "control_cliente_email": "Diana_Abeja@Gmail.com", "id": "63b4cd06380a32131231231296", "v": 0, "img": "https://github.com/IrvingCM123/Consumir_Apis/blob/main/Imagen%20de%20WhatsApp%202023-01-04%20a%20las%2022.19.32.jpg?raw=true" }
-    
+  "Docentes": [
+    { "nombre_docente": "Adolfo Centeno Centenito", "numero_personal": "3968196038", "facultad_asignada": "Facultad de negocios y tecnologias", "img": "https://github.com/IrvingCM123/Consumir_Apis/blob/main/Logo_Pagina.jpeg?raw=true" },
+  ],
+  "Materias": [
+     { "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602", "nrc_materia": "98429" },
+    { "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602", "nrc_materia": "98429" },
   ]
 }
+
