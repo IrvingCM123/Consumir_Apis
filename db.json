@@ -1,10 +1,10 @@
 {
   "Docentes": [
-    {  "numero_personal": "3968196038", "nombre_docente": "Adolfo Centeno Centenito", "facultad_asignada": "Facultad de negocios y tecnologias", "img": "https://github.com/IrvingCM123/Consumir_Apis/blob/main/Logo_Pagina.jpeg?raw=true" }
+    {  "numero_personal": 3968196038, "nombre_docente": "Adolfo Centeno Centenito", "facultad_asignada": "Facultad de negocios y tecnologias", "img": "https://github.com/IrvingCM123/Consumir_Apis/blob/main/Logo_Pagina.jpeg?raw=true" }
   ],
   "Materias": [
-     { "nrc_materia": "98429", "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602"},
-    { "nrc_materia": "98429", "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602" }
+     { "nrc_materia": 98429, "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602"},
+    { "nrc_materia": 98443, "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "grupo_materia": "602" }
   ]
 }
 
