@@ -9,7 +9,7 @@
   ],
   "Listas": [
      {"id":98429, "nrc_materia": 98429, "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "nombre_alumno": "Irving Rafael Conde Marin", "Status_Alumno": "Primera Inscripción"},
-    { "id"98429:, "nrc_materia": 98429, "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias",  "nombre_alumno": "Ruben Castillo Ramirez", "Status_Alumno": "Primera Inscripción"},
+    { "id":98429, "nrc_materia": 98429, "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias",  "nombre_alumno": "Ruben Castillo Ramirez", "Status_Alumno": "Primera Inscripción"},
     {"id":98429, "nrc_materia": 98429, "nombre_materia": "Sistemas en Red", "carrera_materia": "Ingenieria en software", "facultad_asignada": "Facultad de negocios y tecnologias", "nombre_alumno": "Oziel Navarro Alejandres", "Status_Alumno": "Primera Inscripción"}
   ]
 }
